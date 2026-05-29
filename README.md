@@ -1,45 +1,147 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aprillio+Bintang+Perdana+👋;Web+Developer+%7C+QA+Tester;Crafting+Experiences+with+Next.js" alt="Typing SVG" />
-</div>
+# 👋 Hey, I'm Aprillio Bintang Perdana
+
+**QA Specialist** ✦ **Freelance Gaming Content Creator** ✦ **Quality Advocate**
+
+> Ensuring systems run flawlessly while creating content that wins the algorithm.
+
+---
+
+## 🎯 About Me
+
+Saya adalah seorang **Quality Assurance Specialist** dengan ketelitian tinggi dan seorang **Freelance Gaming Content Creator** yang passionate. 
+
+Di dunia IT, saya fokus pada functional testing, API testing, dan quality management. Di ranah kreatif, saya memproduksi konten Honor of Kings dengan strategi berbasis data dan algoritma TikTok.
+
+🌟 **Two Passions, One Vision** — Ensuring excellence in both code and creativity.
+
+---
+
+## 📊 Key Metrics
+
+```
+🎬 3.8M+ Total Views
+🎥 110+ Videos Created
+✅ 352+ QA Tests Executed
+⌨️ 108 WPM Typing Speed
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Quality Assurance
+- ✓ **Functional & UI Testing** — End-to-end system validation
+- ✓ **API Testing** — Manual API testing & validation
+- ✓ **Bug Reporting** — Structured issue documentation (Plane)
+- ✓ **Requirement Analysis** — Test case design & management
+- ✓ **System Monitoring** — Production environment oversight
+
+### Content Creation
+- ✓ **Video Editing** — Professional editing & post-production
+- ✓ **Content Strategy** — Audience-driven content planning
+- ✓ **Trend Analysis** — Algorithm & trending topic research
+- ✓ **Community Engagement** — Audience interaction & growth
+- ✓ **Game Content** — Gaming footage curation & promotion
+
+---
+
+## 💼 Professional Experience
+
+### Quality Assurance Specialist
+**PT. BULLION ECOSYSTEM INTERNATIONAL** · Bogor  
+*Jun 2025 — Present*
+
+- End-to-end testing untuk sistem event (Tenar Buyer & Organizer Phase 2–4) dan Payment Gateway MVP
+- Menyusun & mengelola puluhan test case terstruktur
+- Identifikasi dan pelaporan bug menggunakan Plane
+- Koordinasi dengan developer untuk resolusi isu
+
+### Freelance Gaming Content Creator
+**Honor of Kings (Tencent / TikTok)** · Remote  
+*2025 — Present*
+
+- Menyelesaikan 50+ video promosi official HoK campaign
+- Aktif di HoK Creator Camp dengan jutaan penayangan akumulatif
+- Kurasi & editing klip berkualitas dari in-game footage
+
+### Internship Monitoring Server
+**PT. BULLION ECOSYSTEM INTERNATIONAL** · Bogor  
+*Aug 2024 — Jun 2025*
+
+- Monitoring sistem produksi secara berkala
+- Analisis error transaksi dan penanganan kendala operasional
+- Dokumentasi hasil monitoring ke laporan teknis
+
+---
+
+## 📚 Education
+
+| Institution | Program | Period |
+|------------|---------|--------|
+| **Universitas Terbuka** | S1 Sistem Informasi | Aug 2025 — Present |
+| **Univ. Siber Muhammadiyah** | S1 Manajemen | Jan 2026 — Present |
+| **SMK Negeri 4 Kendal** | Rekayasa Perangkat Lunak | Jun 2022 — Jun 2024 |
+
+---
+
+## 🏆 Certifications
+
+- 🔵 **Microsoft 365 Copilot** — Microsoft (Apr 2026)
+- 🔵 **Pelatihan Dasar Copilot** — Jobstreet & Microsoft (Apr 2026)
+- 📊 **Analisis Data Excel** — Microsoft & Jobstreet (Apr 2026)
+- ✅ **QA Test Technique** — MySkill (Apr 2026)
+- ✅ **Quality Assurance Introduction** — MySkill (Feb 2025)
+- 💼 **Intensive Bootcamp Excel** — KarirNex (Apr 2026)
+
+---
+
+## 📈 Portfolio Highlights
+
+### Projects & Achievements
+- **Payment Gateway MVP** — End-to-end QA testing & validation
+- **Tenar Event System Phase 2-4** — Comprehensive functional testing
+- **Honor of Kings Creator Campaign** — 50+ promotional videos, 3.8M+ views
+- **Production Monitoring** — Real-time system oversight & incident response
+
+### Creator Statistics
+- **Platform**: TikTok (Gaming Content)
+- **Total Videos**: 110+
+- **Total Views**: 3.8M+
+- **Focus**: Honor of Kings game content & strategy
+
+---
+
+## 🌐 Let's Connect!
+
+I'm open to QA opportunities, professional offers, and digital content collaborations.
 
 <div align="center">
-  <p>An Information Systems student who loves crafting beautiful, interactive web experiences and ensuring software reliability.</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aprilliobintang455-boop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aprilliobintang)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@scarawanderr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aprillio.bintang/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprilliobintang455@gmail.com)
+
 </div>
 
 ---
 
-### 🚀 What I Do
+## 💡 Fun Facts
 
-- 💻 **Web Development:** Building modern, responsive web applications with interactive animations. Check out my recent work in the [Projects section of my Portfolio](https://aprilporto.vercel.app/projects).
-- 🐛 **Quality Assurance:** Documenting test cases, reporting bugs, and ensuring smooth, flawless user experiences.
-- 🎨 **Design & Creativity:** Applying graphic design principles (visual hierarchy, typography) to create stunning UIs. Discover more about my creative side on my [Creator page](https://aprilporto.vercel.app/creator).
-- 🎓 **Education:** Currently majoring in Information Systems at Universitas Terbuka.
+- ⌨️ **108 WPM** typing speed on MonkeyType
+- 🌍 Language learner on Duolingo
+- 🎮 Passionate about gaming & content strategy
+- 🔍 Detail-oriented in both QA and content creation
 
-### 🛠️ Tech Stack & Tools
-
-*My go-to technologies for building and designing modern applications:*
+---
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,js,html,css,git,github,vercel,netlify,photoshop,vscode&theme=dark" alt="Skill Icons" />
-  </a>
-</div>
-<br>
 
-### 📊 GitHub Analytics
+### Available for Work ✦
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+*Quality assurance, content collaborations, and digital partnerships welcome!*
 
-### 📫 Let's Connect!
+© 2026 · **Aprillio Bintang Perdana** · Crafted with ✦
 
-<div align="center">
-  <a href="https://aprilporto.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://aprilporto.vercel.app/projects">
-    <img src="https://img.shields.io/badge/View_Projects-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="Projects" />
-  </a>
 </div>
