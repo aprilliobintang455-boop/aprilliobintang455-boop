@@ -1,70 +1,98 @@
 <div align="center">
+
 ## Aprillio Bintang Perdana
 
 QA Specialist × Content Creator
 
 <sub>Quality + Creativity = Excellence</sub>
 
-</div>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=50&lines=QA+Specialist;Content+Creator;Quality+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=50&lines=🛡️+QA+Specialist;🎬+Content+Creator;✨+Quality+Advocate" alt="Typing SVG" />
 
 </div>
 
 ---
-
-## 🎯 Who Am I
-
-**Quality Assurance Specialist** focusing on functional testing, API testing & bug reporting at **PT. BULLION ECOSYSTEM**.
-
-**Freelance Gaming Content Creator** producing Honor of Kings content on TikTok with **3.8M+ views**.
-
----
-
-## 📊 Quick Stats
 
 <div align="center">
 
-| 🎬 | 🔍 | ⌨️ |
-|:---:|:---:|:---:|
-| **3.8M+ Views** | **352+ QA Tests** | **108 WPM** |
-| 110+ Videos | 50+ Test Cases | Typing Speed |
+## 🎯 Who Am I
+
+</div>
+
+Quality Assurance Specialist focusing on **functional testing**, **API testing** & **bug reporting** at **PT. BULLION ECOSYSTEM**.
+
+Freelance Gaming Content Creator producing **Honor of Kings** content on TikTok with **3.8M+ views**.
+
+---
+
+<div align="center">
+
+## 📊 Quick Stats
+
+🎬 **3.8M+ Views** | 🔍 **352+ QA Tests** | ⌨️ **108 WPM**
+
+110+ Videos • 50+ Test Cases • Typing Speed
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 💼 What I Do
 
-### 🛡️ QA & Testing
+</div>
+
+**🛡️ QA & Testing**
+
 Functional Testing • API Testing • Bug Reporting • Test Design • System Monitoring
 
-### 🎬 Content Creation
+**🎬 Content Creation**
+
 Video Editing • Content Strategy • Trend Analysis • Gaming Content • Community Growth
 
 ---
 
-## 🏆 Current Role
+<div align="center">
 
-**QA Specialist** — PT. BULLION ECOSYSTEM (Jun 2025 - Present)
-- End-to-end testing • Payment Gateway MVP • Plane bug reporting
+## 🏆 Current Roles
 
-**Content Creator** — Honor of Kings TikTok (2025 - Present)  
-- 50+ promotional videos • Creator Camp participant • Millions of views
+</div>
+
+**🔵 QA Specialist**
+PT. BULLION ECOSYSTEM | Jun 2025 - Present
+
+🔹 End-to-end testing
+🔹 Payment Gateway MVP
+🔹 Plane bug reporting
+🔹 Test case management
+
+**🔴 Content Creator**
+Honor of Kings TikTok | 2025 - Present
+
+🔹 50+ promotional videos
+🔹 Creator Camp participant
+🔹 Algorithm-driven strategy
+🔹 Millions of cumulative views
 
 ---
-
-## 🎓 Latest Certs
-
-🔵 Microsoft 365 Copilot • ✅ QA Test Technique • 📊 Excel Analysis
-
-<sub>More details at [aprilporto.vercel.app](https://aprilporto.vercel.app/)</sub>
-
----
-
-## 🌐 Let's Connect
 
 <div align="center">
+
+## 🎓 Latest Certifications
+
+🔵 **Microsoft 365 Copilot** | ✅ **QA Test Technique** | 📊 **Excel Analysis**
+
+<sub>→ More details at [aprilporto.vercel.app](https://aprilporto.vercel.app/)</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aprilliobintang455-boop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aprilliobintang)
@@ -79,12 +107,12 @@ Video Editing • Content Strategy • Trend Analysis • Gaming Content • Com
 <div align="center">
 
 ### 💬 Open For
-QA Opportunities • Content Collaborations • Professional Offers
 
-```
-✦ Available for Work ✦
-Quality + Creativity = Excellence
-```
+🛡️ QA Opportunities • 🎬 Content Collaborations • 💼 Professional Offers
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1500&color=FF006E&center=true&vCenter=true&width=350&height=50&lines=Available+for+Work;Let's+create+excellence+together" alt="Available" />
 
 © 2026 · **Aprillio Bintang Perdana**
 
